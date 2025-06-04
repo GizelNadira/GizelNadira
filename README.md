@@ -16,15 +16,17 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GizelNadira&theme=default)](https://git.io/streak-stats)
 
-## <img src="https://img.icons8.com/?size=100&id=lluDJkWG6oU6&format=png&color=000000" width="30" height="30"> GitHub Stats
+  ## <img src="https://img.icons8.com/?size=100&id=lluDJkWG6oU6&format=png&color=000000" width="30" height="30"> GitHub Stats
 
 ![GizelNadira's GitHub stats](https://github-readme-stats.vercel.app/api?username=GizelNadira&show_icons=true&theme=tokyonight)
 <br>
 <hr>
 <br>
 
+## Feel free to connect or check out my repositories!
+<br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh2NHd4dm9mbmZwejNxMW05dzltdDJybnd1YmZhNTlia2V0dmZzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qKr1nIRfIQPYI/giphy.gif" width="1000" alt="Cute coquette gif"/>
 
 ---
 
-## Feel free to connect or check out my repositories!
+
