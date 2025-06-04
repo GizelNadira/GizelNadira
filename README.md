@@ -11,6 +11,7 @@ I'm a programming developer and currently learning more about web development. I
   ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GizelNadira&theme=default)](https://git.io/streak-stats)
+<img src="https://media.giphy.com/media/yourgif.gif" width="300" alt="Cute coquette gif"/>
 
 ---
 
