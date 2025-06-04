@@ -12,7 +12,7 @@
 - <img src="https://img.icons8.com/?size=100&id=OiofYgOw2Gtn&format=png&color=000000" width="30" height="30" alt="CSS3"/>I love games, music, and hiking adventures.
 - <img src="https://img.icons8.com/?size=100&id=0pK4qjFciSJ6&format=png&color=000000" width="30" height="30"> My style: Professional, minimalist, and a bit coquette.
 
-  ## <img src="https://img.icons8.com/?size=100&id=mykExBvNxg2D&format=png&color=000000" width="30" height="30"> GitHub Streak
+## <img src="https://img.icons8.com/?size=100&id=mykExBvNxg2D&format=png&color=000000" width="30" height="30"> GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GizelNadira&theme=default)](https://git.io/streak-stats)
 
