@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GizelNadira&theme=default)](https://git.io/streak-stats)
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/?size=100&id=lluDJkWG6oU6&format=png&color=000000" width="30" height="30"> GitHub Stats
 
 ![GizelNadira's GitHub stats](https://github-readme-stats.vercel.app/api?username=GizelNadira&show_icons=true&theme=tokyonight)
 
