@@ -12,13 +12,18 @@
 - <img src="https://img.icons8.com/?size=100&id=OiofYgOw2Gtn&format=png&color=000000" width="30" height="30" alt="CSS3"/>I love games, music, and hiking adventures.
 - <img src="https://img.icons8.com/?size=100&id=0pK4qjFciSJ6&format=png&color=000000" width="30" height="30"> My style: Professional, minimalist, and a bit coquette.
 
-## <img src="https://img.icons8.com/?size=100&id=mykExBvNxg2D&format=png&color=000000" width="30" height="30"> GitHub Streak
+## <img src="https://img.icons8.com/?size=100&id=mykExBvNxg2D&format=png&color=000000" width="30" height="30"> GitHub Streak and <img src="https://img.icons8.com/?size=100&id=lluDJkWG6oU6&format=png&color=000000" width="30" height="30"> GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GizelNadira&theme=default)](https://git.io/streak-stats)
-
-  ## <img src="https://img.icons8.com/?size=100&id=lluDJkWG6oU6&format=png&color=000000" width="30" height="30"> GitHub Stats
-
-![GizelNadira's GitHub stats](https://github-readme-stats.vercel.app/api?username=GizelNadira&show_icons=true&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GizelNadira&show_icons=true&theme=tokyonight" height="180"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=GizelNadira&theme=tokyonight" height="180"/>
+    </td>
+  </tr>
+</table>
 <hr>
 <br>
 
