@@ -35,9 +35,11 @@
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh2NHd4dm9mbmZwejNxMW05dzltdDJybnd1YmZhNTlia2V0dmZzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qKr1nIRfIQPYI/giphy.gif" width="800" alt="Cute coquette gif"/>
+  <br>
 </div>
-<br>
-## <img src="https://img.icons8.com/?size=100&id=mZrB87iKjoxX&format=png&color=000000" width="30" height="30"> Contribution Snake
+
+
+  ## <img src="https://img.icons8.com/?size=100&id=mZrB87iKjoxX&format=png&color=000000" width="30" height="30"> Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
