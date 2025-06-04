@@ -1,4 +1,4 @@
-# Hi there! <img src="https://img.icons8.com/?size=100&id=FAQ5bHYErUuB&format=png&color=000000" width="30" height="30">
+# Hi there! <img src="https://img.icons8.com/?size=100&id=FAQ5bHYErUuB&format=png&color=000000" width="50" height="50">
 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFpenN2N29lZGMyazNjNXJrY3M1ZXNnbGRhbGYwcHI4MmQ4bHFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="1000" alt="Cute coquette gif"/>
