@@ -24,7 +24,10 @@
 
   ## <img src="https://img.icons8.com/?size=100&id=jeZ4MGtz8KUz&format=png&color=000000" width="30" height="30"> Feel free to connect or check out my repositories!
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh2NHd4dm9mbmZwejNxMW05dzltdDJybnd1YmZhNTlia2V0dmZzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qKr1nIRfIQPYI/giphy.gif" width="1000" alt="Cute coquette gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh2NHd4dm9mbmZwejNxMW05dzltdDJybnd1YmZhNTlia2V0dmZzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qKr1nIRfIQPYI/giphy.gif" width="800" alt="Cute coquette gif"/>
+</div>
+
 
 ---
 
