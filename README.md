@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**GizelNadira/GizelNadira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programming developer and currently learning more about web development. I'm passionate about creating clean, professional, and minimalist projects—with a touch of coquette style!
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 👩‍💻 I am actively learning web development.
+- 📺 I share content on [YouTube](https://www.youtube.com/channel/UCQfiiZpEJFCluq0IYlc0x2A) related to coding and development.
+- 🎮 I love games, music, and hiking adventures.
+- 💼 My style: Professional, minimalist, and a bit coquette.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to connect or check out my repositories!
