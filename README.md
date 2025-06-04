@@ -15,6 +15,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GizelNadira&theme=default)](https://git.io/streak-stats)
 
+## 📊 GitHub Stats
+
+![GizelNadira's GitHub stats](https://github-readme-stats.vercel.app/api?username=GizelNadira&show_icons=true&theme=tokyonight)
+
 
 
 ---
