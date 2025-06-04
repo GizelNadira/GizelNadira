@@ -2,7 +2,7 @@
 
 I'm a programming developer and currently learning more about web development. I'm passionate about creating clean, professional, and minimalist projects—with a touch of coquette style!
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFpenN2N29lZGMyazNjNXJrY3M1ZXNnbGRhbGYwcHI4MmQ4bHFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="1000" alt="Cute coquette gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFpenN2N29lZGMyazNjNXJrY3M1ZXNnbGRhbGYwcHI4MmQ4bHFzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="500" alt="Cute coquette gif"/>
 
 ## 🌱 About Me
 - 👩‍💻 I am actively learning web development.
