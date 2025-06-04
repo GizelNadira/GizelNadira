@@ -20,7 +20,7 @@
 
 ![GizelNadira's GitHub stats](https://github-readme-stats.vercel.app/api?username=GizelNadira&show_icons=true&theme=tokyonight)
 
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh2NHd4dm9mbmZwejNxMW05dzltdDJybnd1YmZhNTlia2V0dmZzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qKr1nIRfIQPYI/giphy.gif" width="1000" alt="Cute coquette gif"/>
 
 ---
 
