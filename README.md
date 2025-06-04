@@ -11,6 +11,7 @@
   
 - <img src="https://img.icons8.com/?size=100&id=OiofYgOw2Gtn&format=png&color=000000" width="30" height="30" alt="CSS3"/>I love games, music, and hiking adventures.
 - <img src="https://img.icons8.com/?size=100&id=0pK4qjFciSJ6&format=png&color=000000" width="30" height="30"> My style: Professional, minimalist, and a bit coquette.
+ <br>
 
 ## <img src="https://img.icons8.com/?size=100&id=mykExBvNxg2D&format=png&color=000000" width="30" height="30"> GitHub Streak and <img src="https://img.icons8.com/?size=100&id=lluDJkWG6oU6&format=png&color=000000" width="30" height="30"> GitHub Stats
 
