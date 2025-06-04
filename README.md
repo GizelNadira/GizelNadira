@@ -7,8 +7,7 @@
 ## 🌱 About Me
 - 👩‍💻 I am actively learning web development.
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="30" height="30" alt="YouTube"/> I share content on [YouTube](https://www.youtube.com/channel/UCQfiiZpEJFCluq0IYlc0x2A) related to coding and development.
--<img src="![image](https://github.com/user-attachments/assets/5afddfde-e40b-41f6-8920-834a756c1bd4)
-" width="30" height="30" alt="CSS3"/>I love games, music, and hiking adventures.
+-<img src="https://icons8.com/icon/p4rU35mvmXMQ/youtube-logo" width="30" height="30" alt="CSS3"/>I love games, music, and hiking adventures.
 - 💼 My style: Professional, minimalist, and a bit coquette.
 
   ## 🔥 GitHub Streak
